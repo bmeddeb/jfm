@@ -1,0 +1,39 @@
+[
+  {
+    "role": "admin",
+    "whitelist": [
+      "View",
+      "Edit",
+      "Copy",
+      "Move",
+      "Mkdir",
+      "Change Password",
+      "Quit",
+      "Logout"
+    ]
+  },
+  {
+    "role": "developer",
+    "whitelist": [
+      "View",
+      "Edit",
+      "Copy",
+      "Move",
+      "Mkdir",
+      "Quit",
+      "Logout"
+    ]
+  },
+  {
+    "role": "user",
+    "whitelist": [
+      "View",
+      "Edit",
+      "Copy",
+      "Move",
+      "Mkdir",
+      "Quit",
+      "Logout"
+    ]
+  }
+]
